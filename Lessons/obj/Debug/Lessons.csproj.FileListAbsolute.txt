@@ -1,0 +1,7 @@
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\bin\Debug\Lessons.exe.config
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\bin\Debug\Lessons.exe
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\bin\Debug\Lessons.pdb
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\obj\Debug\Lessons.csprojAssemblyReference.cache
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\obj\Debug\Lessons.exe
+D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\obj\Debug\Lessons.pdb
