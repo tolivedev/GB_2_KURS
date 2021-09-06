@@ -1,0 +1,1061 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-2.1.0",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Dependency Analysis",
+          "semanticVersion": "0.3.242703",
+          "informationUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview",
+          "rules": [
+            {
+              "id": "UA101",
+              "fullDescription": {
+                "text": "Dependency Analysis"
+              }
+            }
+          ]
+        }
+      },
+      "results": [
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package BenchmarkDotNet.Annotations, Version=0.13.1 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package CommandLineParser, Version=2.4.3 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Iced, Version=1.8.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.CodeAnalysis.Analyzers, Version=2.6.1 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.CodeAnalysis.Common, Version=2.10.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.CodeAnalysis.CSharp, Version=2.10.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.Diagnostics.NETCore.Client, Version=0.2.61701 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.Diagnostics.Runtime, Version=1.1.126102 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.Diagnostics.Tracing.TraceEvent, Version=2.0.61 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.DotNet.PlatformAbstractions, Version=2.1.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.Win32.Registry, Version=4.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Perfolizer, Version=0.2.1 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.AppContext, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Buffers, Version=4.4.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Collections, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Collections.Concurrent, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Collections.Immutable, Version=1.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Console, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Diagnostics.Debug, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Diagnostics.FileVersionInfo, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Diagnostics.StackTrace, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Diagnostics.Tools, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Dynamic.Runtime, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Globalization, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.IO.Compression, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.IO.FileSystem, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.IO.FileSystem.Primitives, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Linq, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Linq.Expressions, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Management, Version=4.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Memory, Version=4.5.3 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Numerics.Vectors, Version=4.4.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Reflection, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Reflection.Emit, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Reflection.Emit.Lightweight, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Reflection.Metadata, Version=1.6.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Resources.ResourceManager, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime.CompilerServices.Unsafe, Version=4.5.2 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime.Extensions, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime.InteropServices, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime.InteropServices.RuntimeInformation, Version=4.0.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Runtime.Numerics, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.AccessControl, Version=4.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.Cryptography.Algorithms, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.Cryptography.Encoding, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.Cryptography.Primitives, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.Cryptography.X509Certificates, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Security.Principal.Windows, Version=4.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Text.Encoding, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Text.Encoding.CodePages, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Text.Encoding.Extensions, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Threading, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Threading.Tasks, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Threading.Tasks.Extensions, Version=4.5.2 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Threading.Tasks.Parallel, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Threading.Thread, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.ValueTuple, Version=4.5.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Xml.ReaderWriter, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Xml.XDocument, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Xml.XmlDocument, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Xml.XPath, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package System.Xml.XPath.XDocument, Version=4.3.0 needs to be deleted "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        },
+        {
+          "ruleId": "UA101",
+          "message": {
+            "text": "Package Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers, Version=0.3.242703 needs to be added "
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///D:/Distr/c%23/Cloud%20Mail.Ru/-=%20C%23%20=-/GB/2_KURS/Lessons/Lessons.csproj"
+                },
+                "region": {}
+              }
+            }
+          ]
+        }
+      ],
+      "columnKind": "utf16CodeUnits"
+    },
+    {
+      "tool": {
+        "driver": {
+          "name": "API Upgradability",
+          "semanticVersion": "0.3.242703",
+          "informationUri": "https://docs.microsoft.com/en-us/dotnet/core/porting/upgrade-assistant-overview"
+        }
+      },
+      "results": [],
+      "columnKind": "utf16CodeUnits"
+    }
+  ]
+}
