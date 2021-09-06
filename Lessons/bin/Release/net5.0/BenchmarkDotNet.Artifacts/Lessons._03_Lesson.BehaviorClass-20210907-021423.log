@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 4 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\bin\Release\net5.0\1e10c549-1a2a-4270-8467-0a37e6f949e5
+// command took 2,11s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Distr\c#\Cloud Mail.Ru\-= C# =-\GB\2_KURS\Lessons\bin\Release\net5.0\1e10c549-1a2a-4270-8467-0a37e6f949e5
