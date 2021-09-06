@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Lessons._03_Lesson.BehaviorClass-20210906-163715</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19042.1052 (20H2/October2020Update)
+Intel Core i5-8265U CPU 1.60GHz (Whiskey Lake), 1 CPU, 8 logical and 4 physical cores
+.NET SDK=5.0.400
+  [Host]     : .NET 5.0.9 (5.0.921.35908), X64 RyuJIT  [AttachedDebugger]
+  DefaultJob : .NET 5.0.9 (5.0.921.35908), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>                         Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th>
+</tr>
+</thead><tbody><tr><td>&#39;Класс с данными float&#39;</td><td>67.19 ns</td><td>1.260 ns</td><td>1.117 ns</td><td>67.29 ns</td>
+</tr><tr><td>&#39;Структура с данными float&#39;</td><td>97.05 ns</td><td>2.852 ns</td><td>8.136 ns</td><td>93.62 ns</td>
+</tr><tr><td>&#39;Структура с данными double&#39;</td><td>73.56 ns</td><td>1.332 ns</td><td>1.481 ns</td><td>73.37 ns</td>
+</tr><tr><td>&#39;Структура с данными float без корня&#39;</td><td>65.15 ns</td><td>0.938 ns</td><td>0.878 ns</td><td>65.52 ns</td>
+</tr></tbody></table>
+</body>
+</html>
